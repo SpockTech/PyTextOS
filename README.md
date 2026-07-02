@@ -13,3 +13,7 @@ It can:
 
 ## Download
 Follow these steps to ownload and run the operating system.
+1. Go to [the latest release]()
+---
+
+## Users guide
