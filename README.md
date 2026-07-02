@@ -2,16 +2,15 @@
 
 **Welcome to the PyTextOS™ 1.0 operating system!**
 
-PyTextOS is a text-based operating system that can run on 64-bit and legacy 32-bit systems. It has a text editor, a calculator, an account manager, a simple game, and much more.
+PyTextOS is a text-based operating system that can run on 64-bit and legacy 32-bit systems. It has a text editor, a calculator, an account manager, a simple game, and much more. It uses multi kernel technology.
 
 ---
+
 ## Table of contents
 - [Compatibility](#compatibility)
 - [Download](#download)
 - [Setup](#setup)
 - [Installation](#installation)
-- [Users guide](#users-guide)
-
 
 ---
 
@@ -54,13 +53,15 @@ After typing `setup`, you must follow the steps to install PyTextOS to the stora
      ------------------------------------
      SATA SSD (partition 0)      1   20 GB
      SATA SSD (partition 1)      2   31 GB
-     ADATA SATA HDD              2   500 GB
+     IDE Hard Drive              2   500 GB
    ```
 3. You will be prompted to create up to 5 user accounts with passwords. Just press ENTER to proceed.
 4. Once you have created the user profiles, PyTextOS will copy the files to your drive and create all the directories.
-5. You are prompted to create a password to access the account manager.
-6. After creating a password, you can now start using PyTextOS.
-
----
-
-## Users guide
+   It will display something like:
+   ```
+   Successfully copied file: /system/boot/boot.asm
+   Successfully copied file: /system/kernel/vmlinuz64bit
+   Successfully copied file: /system/kernel/vmlinuz32bit
+   ```
+6. You are prompted to create a password to access the account manager.
+7. After creating a password, you can now start using PyTextOS.
