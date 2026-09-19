@@ -11,4 +11,5 @@ Follow these steps to install PyTextOS™ to your computer.
 3. Insert the USB or CD/DVD into the computer
 4. Power on the computer
 
-Once you will see `Loading installer...`, wait for it to finish. Then, you will have to follow the on-screen instructions to install PyTextOS 1.0 on to your computer.
+Once you will see `Loading installer...`, wait for it to finish. Then, you will have to follow the on-screen instructions to install PyTextOS 1.0 on to your computer. If you only have one drive installed on your computer, PyTextOS will automatically copy the files to your drive without you having to do anything. If you have more than one drive installed on your computer, you will have to manually select where to install PyTextOS.
+
